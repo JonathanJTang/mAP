@@ -1,1 +1,5 @@
 output/
+.temp_files/
+input/detection-results/
+input/images-optional/
+image*/
